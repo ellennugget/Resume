@@ -11,5 +11,5 @@ This repository contains my **professional CV in PDF format**.
 
 ---
 
-For inquiries or collaboration, feel free to contact me via email: your.email@example.com  
+For inquiries or collaboration, feel free to contact me via email: ellennugget@gmail.com
 如有任何问题或合作意向，请通过邮箱联系我: ellennugget@gmail.com
